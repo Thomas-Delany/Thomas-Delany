@@ -9,7 +9,10 @@ Hi, I'm Thomas Delany, an aspiring entrepreneur currently building an amazing le
 
 ## Check Out My Work
 
-- Check out what I've built: [English Reservoir](https://www.englishreservoir.com/) 🌐
+- A recently completed template website built using Bootstrap and PHP: https://englishreservoir.co.uk/  
+- My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐
 - The learner platform (right now for Spanish speakers): [Cursos English Reservoir](https://cursos.englishreservoir.com/) 📚
 - Articles I've written in English: [English Reservoir Blog](https://www.englishreservoir.com/blog/) 📝
 - Articles I've written in Spanish: [Blog en Español](https://www.englishreservoir.com/es/blog-ingles/) 📝
+- My YouTube channel for Spanish speakers: https://www.youtube.com/@EnglishReservoirES 
+- My YouTube channel for all others: https://www.youtube.com/@EnglishReservoirES 
