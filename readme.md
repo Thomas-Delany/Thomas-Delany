@@ -16,4 +16,4 @@ Hi, I'm Thomas Delany, an aspiring entrepreneur currently building an amazing le
 - Articles I've written in English: [English Reservoir Blog](https://www.englishreservoir.com/blog/) 📝
 - Articles I've written in Spanish: [Blog en Español](https://www.englishreservoir.com/es/blog-ingles/) 📝
 - My YouTube channel for Spanish speakers: https://www.youtube.com/@EnglishReservoirES 
-- My YouTube channel for all others: https://www.youtube.com/@EnglishReservoirES 
+- My YouTube channel for all others: https://www.youtube.com/@EnglishReservoir/featured 
