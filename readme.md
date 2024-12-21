@@ -9,6 +9,7 @@ Hi, I'm Thomas Delany, an aspiring entrepreneur currently building an amazing le
 
 ## Check Out My Work
 
+- A subbmodule repo I am working on to centrally control all my domain-specific repos at: https://github.com/Thomas-Delany/shared-components-ER 
 - A recently completed template website built using Bootstrap and PHP: https://englishreservoir.co.uk/
 - The project I am currently working on with React and TailWind: https://github.com/Thomas-Delany/Subdomain-with-React 
 - My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐
