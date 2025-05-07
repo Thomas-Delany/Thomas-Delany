@@ -9,13 +9,19 @@ Hi, I'm Thomas Delany, an aspiring entrepreneur currently building an amazing le
 
 ## Check Out My Work
 
-- A submodule repo I am working on to centrally control all my domain-specific repos. Check it out: https://github.com/Thomas-Delany/shared-components-ER 
-- A recently completed template website built using Bootstrap and PHP: https://englishreservoir.co.uk/
-- The project I am currently working on with React and TailWind: https://github.com/Thomas-Delany/Subdomain-with-React 
-- My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐
-- The learner platform (right now for Spanish speakers): [Cursos English Reservoir](https://cursos.englishreservoir.com/) 📚
-- Articles I've written in English: [English Reservoir Blog](https://www.englishreservoir.com/blog/) 📝
-- Articles I've written in Spanish: [Blog en Español](https://www.englishreservoir.com/es/blog-ingles/) 📝
+- I completed https://www.englishreservoir.es/ which was built using PHP, Laravel, JavaScript and Bootstrap. This was done as part of a migration away from 
+  WordPress.
+- A now completed template website built using Bootstrap and PHP: https://englishreservoir.co.uk/ - This project was the first iteration before the 
+  much-needed improvement using Laravel above ^^. Even though the code is a little messy, this project was my chance to deploy my site without a framework, 
+  just using raw code.  
+- A submodule repo I was working on to centrally control all my domain-specific repos. Check it out: https://github.com/Thomas-Delany/shared-components-ER. 
+  However, this project has since been moved to Laravel in a private repo where I can work in a much more modular and professional environment. 
+- The project I was working on with React and TailWind before I took it private: https://github.com/Thomas-Delany/Subdomain-with-React - This project has 
+  also been moved to a private repo due to the projects current evolution. Once completed, this app will be deployed as a mobile application and site. 
+- My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐 - I am currently in the migration phase for this site, and it 
+  will be moved to Laravel very soon!
 - My YouTube channel for Spanish speakers: https://www.youtube.com/@EnglishReservoirES 
-- My YouTube channel for all others: https://www.youtube.com/@EnglishReservoir/featured
-- My Mars Rover Mission once mars has been colonized: https://lightgoldenrodyellow-kingfisher-429222.hostingersite.com/ + public repo here: https://github.com/Thomas-Delany/mars-rover-mission 
+- My YouTube channel for all others: https://www.youtube.com/@EnglishReservoir
+- My Mars Rover Mission once mars has been colonized, which has been deployed at: https://lightgoldenrodyellow-kingfisher-429222.hostingersite.com/ + public 
+  repo here: https://github.com/Thomas-Delany/mars-rover-mission - This project was part of a job application process, and was done using PHP, Laravel, 
+  JavaScript and Bootstrap. 
