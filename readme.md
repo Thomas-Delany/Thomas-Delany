@@ -17,7 +17,7 @@ Hi, I'm Thomas Delany, an aspiring entrepreneur currently building an amazing le
 - A submodule repo I was working on to centrally control all my domain-specific repos. Check it out: https://github.com/Thomas-Delany/shared-components-ER. 
   However, this project has since been moved to Laravel in a private repo where I can work in a much more modular and professional environment. 
 - The project I was working on with React and TailWind before I took it private: https://github.com/Thomas-Delany/Subdomain-with-React - This project has 
-  also been moved to a private repo due to the projects current evolution. Once completed, this app will be deployed as a mobile application and site. 
+  also been moved to a private repo due to the project's current evolution. Once completed, this app will be deployed as a mobile application and site. 
 - My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐 - I am currently in the migration phase for this site, and it 
   will be moved to Laravel very soon!
 - My YouTube channel for Spanish speakers: https://www.youtube.com/@EnglishReservoirES 
