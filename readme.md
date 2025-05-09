@@ -1,6 +1,8 @@
 # About Me
 
-Hi, I'm Thomas Delany, an aspiring entrepreneur currently building an amazing learning platform for English learners. 
+Hi, I'm Thomas Delany,
+
+Backend Alchemist conjuring robust and scalable web experiences with PHP & Laravel. On the Frontend Frontier, I wield JavaScript, React, Bootstrap, and Tailwind to craft captivating user interfaces. My digital playground? The mighty Linux!
 
 ## What I Do
 
