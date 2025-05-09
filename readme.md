@@ -4,11 +4,6 @@ Hi, I'm Thomas Delany,
 
 Backend Alchemist conjuring robust and scalable web experiences with PHP & Laravel. On the Frontend Frontier, I wield JavaScript, React, Bootstrap, and Tailwind to craft captivating user interfaces. My digital playground? The mighty Linux!
 
-## What I Do
-
-- I know quite a bit about English, how to teach it, and learner needs. 💡
-- I’m also trying my hand at development to see how I can combine everything. 🖥️
-
 ## Check Out My Work
 
 - I completed https://www.englishreservoir.es/ which was built using PHP, Laravel, JavaScript and Bootstrap. This was done as part of a migration away from 
