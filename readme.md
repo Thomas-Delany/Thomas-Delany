@@ -17,8 +17,8 @@ Backend Alchemist conjuring robust and scalable web experiences with PHP & Larav
   also been moved to a private repo due to the project's current evolution. Once completed, this app will be deployed as a mobile application and site. 
 - My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐 - I am currently in the migration phase for this site, and it 
   will be moved to Laravel very soon!
-- My YouTube channel for Spanish speakers: https://www.youtube.com/@EnglishReservoirES 
-- My YouTube channel for all others: https://www.youtube.com/@EnglishReservoir
+- My YouTube channel for Spanish speakers: https://www.youtube.com/@Anglossa-ES 
+- My YouTube channel for all others: https://www.youtube.com/@Anglossa 
 - My Mars Rover Mission once mars has been colonized, which has been deployed at: https://lightgoldenrodyellow-kingfisher-429222.hostingersite.com/ + public 
   repo here: https://github.com/Thomas-Delany/mars-rover-mission - This project was part of a job application process, and was done using PHP, Laravel, 
   JavaScript and Bootstrap. 
