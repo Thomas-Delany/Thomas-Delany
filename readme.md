@@ -6,6 +6,8 @@ I’m a Salesforce full-stack developer with hands-on experience in designing an
 
 ## Check Out My Work
 
+- https://github.com/Thomas-Delany/salesforce-customer-support - Salesforce DX project that serves as the backend for a Customer Support Portal. It allows support agents to view, manage, and resolve cases 
+  submitted from an external Laravel frontend via Salesforce's REST API.
 - I completed https://www.englishreservoir.es/ which was built using PHP, Laravel, JavaScript and Bootstrap. This was done as part of a migration away from 
   WordPress.
 - A now completed template website built using Bootstrap and PHP: https://englishreservoir.co.uk/ - This project was the first iteration before the 
