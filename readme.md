@@ -2,9 +2,7 @@
 
 Hi, I'm Thomas Delany,
 
-Backend Alchemist conjuring robust and scalable web experiences with PHP & Laravel. On the Frontend Frontier, I wield JavaScript, React, Bootstrap, and Tailwind to craft captivating user interfaces. My digital playground? The mighty Linux!
-
-Currently venturing into the world of CRM development, with a focused path toward the Salesforce ecosystem. I'm actively studying for the Salesforce Platform Developer I certification, building skills in Apex, Lightning Web Components (LWC), and SOQL to architect next-generation enterprise solutions.
+I’m a Salesforce full-stack developer with hands-on experience in designing and building robust web applications and CRM integrations. On the backend, I specialize in PHP with Laravel, creating scalable APIs and efficient data workflows. On the frontend, I develop modern, responsive interfaces using JavaScript, React, Bootstrap, and Tailwind CSS. In the Salesforce ecosystem, I build custom business logic using Apex, design dynamic user experiences with Lightning Web Components (LWC), and work confidently with SOQL and SOSL to handle complex data requirements. I’m actively expanding my Salesforce skill set with real-world development experience and am on the path toward Platform Developer I certification.
 
 ## Check Out My Work
 
