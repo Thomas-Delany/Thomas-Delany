@@ -19,8 +19,7 @@ I’m a Salesforce full-stack developer with hands-on experience in designing an
   However, this project has since been moved to Laravel in a private repo where I can work in a much more modular and professional environment. 
 - The project I was working on with React and TailWind before I took it private: https://github.com/Thomas-Delany/Subdomain-with-React - This project has 
   also been moved to a private repo due to the project's current evolution. Once completed, this app will be deployed as a mobile application and site. 
-- My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐 - I am currently in the migration phase for this site, and it 
-  will be moved to Laravel very soon!
+- My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐 - This site was the original, which was done using WordPress. However, I have since migrated this site to Laravel, and this migration took me about four months in total. Given the recent rebranding too, I have also set up 301 redirects from all content pages (this was important because of their high SEO ranking) to anglossa.com and es.anglossa.com for English and Spanish pages respectively. 
 - My YouTube channel for Spanish speakers: https://www.youtube.com/@Anglossa-ES 
 - My YouTube channel for all others: https://www.youtube.com/@Anglossa 
 - My Mars Rover Mission once mars has been colonized, which has been deployed at: https://lightgoldenrodyellow-kingfisher-429222.hostingersite.com/ + public 
