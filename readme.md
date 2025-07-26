@@ -8,7 +8,7 @@ I’m a Salesforce full-stack developer with hands-on experience in designing an
 
 - https://github.com/Thomas-Delany/salesforce-customer-support - I am currently building a Salesforce DX project that serves as the backend for a Customer Support Portal. It allows support agents to view, manage, 
   and resolve cases submitted from an external Laravel frontend via Salesforce's REST API.
-- Anglossa Project – anglossa.com | es.anglossa.com |
+- Anglossa Project – https://anglossa.com/ | https://es.anglossa.com/ |
   My most ambitious and evolving creation to date—a comprehensive English learning platform designed to assist learners worldwide. As the founder and lead developer, I built and continue to expand the Anglossa Project using Laravel, PHP, and Bootstrap, ensuring a seamless    and interactive learning experience. Previously operating under the English Reservoir brand, I’ve since rebranded—all legacy domains (except .co.uk) now redirect to Anglossa.
 - I completed https://www.englishreservoir.es/ which was built using PHP, Laravel, JavaScript and Bootstrap. This was done as part of a migration away from 
   WordPress.
