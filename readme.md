@@ -22,6 +22,4 @@ I’m a Salesforce full-stack developer with hands-on experience in designing an
 - My main page built with WordPress: [English Reservoir](https://www.englishreservoir.com/) 🌐 - This site was the original, which was done using WordPress. However, I have since migrated this site to Laravel, and this migration took me about four months in total. Given the recent rebranding too, I have also set up 301 redirects from all content pages (this was important because of their high SEO ranking) to anglossa.com and es.anglossa.com for English and Spanish pages respectively. 
 - My YouTube channel for Spanish speakers: https://www.youtube.com/@Anglossa-ES 
 - My YouTube channel for all others: https://www.youtube.com/@Anglossa 
-- My Mars Rover Mission once mars has been colonized, which has been deployed at: https://lightgoldenrodyellow-kingfisher-429222.hostingersite.com/ + public 
-  repo here: https://github.com/Thomas-Delany/mars-rover-mission - This project was part of a job application process, and was done using PHP, Laravel, 
-  JavaScript and Bootstrap. 
+- My Mars Rover Mission once mars has been colonized: https://github.com/Thomas-Delany/mars-rover-mission - This project was part of a job application process, and was done using PHP, Laravel, JavaScript and Bootstrap. 
