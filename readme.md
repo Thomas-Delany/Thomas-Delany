@@ -2,7 +2,7 @@
 
 Hi, I'm Thomas Delany,
 
-I am a Salesforce Certified full-stack developer. Over the past several years, I have developed and maintained web applications using Laravel, React, JavaScript, and modern CSS frameworks such as Tailwind and Bootstrap. My main focus is now Salesforce development. I have hands-on experience building custom business logic with Apex, developing Lightning Web Components (LWC), writing test classes, and working with SOQL and SOSL for data-driven applications. I also have a solid understanding of key platform concepts such as sObjects and master-detail and lookup relationships. I have completed the Salesforce Certified Platform Developer I certification and am seeking opportunities in Salesforce Development.
+I am a Salesforce Certified full-stack developer. Over the past several years, I have developed and maintained web applications using PHP Laravel, React, JavaScript, and modern CSS frameworks such as Tailwind and Bootstrap. My main focus is now Salesforce development. I have hands-on experience building custom business logic with Apex, developing Lightning Web Components (LWC), writing test classes, and working with SOQL and SOSL for data-driven applications. I also have a solid understanding of key platform concepts such as sObjects and master-detail and lookup relationships. I have completed the Salesforce Certified Platform Developer I certification and am seeking opportunities in Salesforce Development.
 
 ## Check Out My Work
 
